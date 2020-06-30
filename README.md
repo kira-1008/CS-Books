@@ -129,6 +129,7 @@ Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, 
 | software-development | [domain-driven-design-distilled.pdf](software-development/domain-driven-design-distilled.pdf)
 | software-development | [Clean Code.pdf](software-development/Clean%20Code.pdf)
 | software-development | [The Pragmatic Programmer.pdf](software-development/The%20Pragmatic%20Programmer.pdf)
+| system-design | [Educative.io - Grokking the System Design-educative.io](system-design/educative.io-Grokking-the-System-Design-educative.io.pdf)
 | tdd + bdd | [Design Driven Testing.pdf](tdd%20+%20bdd/Design%20Driven%20Testing.pdf)
 | tdd + bdd | [the-art-of-unit-testing.pdf](tdd%20+%20bdd/the-art-of-unit-testing.pdf)
 | tdd + bdd | [BDD.pdf](tdd%20+%20bdd/BDD.pdf)
