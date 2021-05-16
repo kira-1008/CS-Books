@@ -143,3 +143,4 @@ Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, 
 | tdd + bdd | [tdd-ebook-sample.pdf](tdd%20+%20bdd/tdd-ebook-sample.pdf)
 | vim+tmux | [tmux-taster-2014.pdf](vim+tmux/tmux-taster-2014.pdf)|
 | vim+tmux | [pro-vim-2014.pdf](vim+tmux/pro-vim-2014.pdf)|
+| good resources | https://github.com/donnemartin/system-design-primer |
